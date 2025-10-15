@@ -1,0 +1,1 @@
+# kal_igt_corpus_kalaallisut-sungiusaatit
