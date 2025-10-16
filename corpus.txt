@@ -14681,8 +14681,8 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Appat         amerlangaaramik             qaqqat           innaat                 timmissat    anaannik              qaqortuinnaasaraluarput,                         kisianni maanna peeruppoq                        piniarneqarpallaaqigamik
-Appatə        amirla-ŋaaq-gamik           qaðqaq-t         innaq-at               tiŋmijaq-t   anaq-annik            qaquq-ðuq-g^innaq-u-ðaq-galuaq-v^vut             kisianni maanna pi-irutə-vuq                     piniaq-nəqaq-vallaaq-qə-gamik
-Appat.SG.ABS  a.lot.of-greatly-CAUSM.4PL  mountain-PL.ERG  cliff-3PL.POSS.SG.ABS  bird-PL.ERG  dung-3PL.POSS.PL.INS  white-NMLZ-just-COP-HAB-actually-NONFUT.IND.3PL  but      now    thing-be.no.more-NONFUT.IND.3SG  go.hunting-PASS-too-very-CAUSM.4PL
+appa-t        amirla-ŋaaq-gamik           qaðqaq-t         innaq-at               tiŋmijaq-t   anaq-annik            qaquq-ðuq-g^innaq-u-ðaq-galuaq-v^vut             kisianni maanna pi-irutə-vuq                     piniaq-nəqaq-vallaaq-qə-gamik
+murre-PL.ABS  a.lot.of-greatly-CAUSM.4PL  mountain-PL.ERG  cliff-3PL.POSS.SG.ABS  bird-PL.ERG  dung-3PL.POSS.PL.INS  white-NMLZ-just-COP-HAB-actually-NONFUT.IND.3PL  but      now    thing-be.no.more-NONFUT.IND.3SG  go.hunting-PASS-too-very-CAUSM.4PL
 `Since there were so many murres, that the mountainside used to be completely white from the birds' shit, however now they are no more since they got hunted way too much.`
 
 #1470
