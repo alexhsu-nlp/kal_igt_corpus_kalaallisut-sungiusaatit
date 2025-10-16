@@ -63,3 +63,4 @@ The glosses in this corpus mainly follow the [Leipzig Glossing Rules](https://ww
 | HTR       | half-transitive affix (for constructing antipassives)|
 | TOP       | topic or emphatic marker |
 | IRR       | nominal irrealis         |
+| GROUP     | group/collective affix   |
