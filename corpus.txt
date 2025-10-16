@@ -8712,7 +8712,7 @@ Judgment: g
 Phenomena: {corpus}
 Taava takulerpaa                  qajaq         inuttaqanngitsoq         sarfap          ingerlakkaa,              tassa    Orliina         qajaasimavoq.
 taava taku-liq-vaa                qajaq         inuttaq-qaq-ŋŋit-ðuq     sarfaq-p        iŋirlatə-gəa              tassa    Orliina         qajaa-sima-vuq
-then  see-INC-NONFUT.IND.3SG>3SG  kayak.SG.ABS  owner-have-NEG-PART.3SG  current-SG.ERG  let.advance-PART.3SG>3SG  that.is  Orliina.SG.ABS  die.in.katak-PFV-NONFUT.IND.3SG
+then  see-INC-NONFUT.IND.3SG>3SG  kayak.SG.ABS  owner-have-NEG-PART.3SG  current-SG.ERG  let.advance-PART.3SG>3SG  that.is  Orliina.SG.ABS  die.in.kayak-PFV-NONFUT.IND.3SG
 `Then she noticed kayak without a driver, with the stream pushing it; that is, Orliina had died in the kayak.`
 
 #873
