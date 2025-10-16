@@ -52,6 +52,7 @@ The glosses in this corpus mainly follow the [Leipzig Glossing Rules](https://ww
 | CONJ      | conjunction clitic     |
 | APP       | applicative            |
 | ANA       | anaphoric              |
+| EXCL      | exclamatory demonstrative |
 | POSS      | possessive             |
 | XX.POSS   | possessive where the possessor is XX |
 | NEG       | negation               |
@@ -60,3 +61,5 @@ The glosses in this corpus mainly follow the [Leipzig Glossing Rules](https://ww
 | SUP       | superlative            |
 | CAUSV     | causative affix        |
 | HTR       | half-transitive affix (for constructing antipassives)|
+| TOP       | topic or emphatic marker |
+| IRR       | nominal irrealis         |
