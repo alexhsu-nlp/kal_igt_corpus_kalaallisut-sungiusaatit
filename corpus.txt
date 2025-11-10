@@ -55,16 +55,6 @@ Jensen         aucaq          manna        kalaaliq-t         nuna-annut        
 Jensen.SG.ABS  summer.SG.ABS  this.SG.ABS  Greenlander-PL.ERG country-3PL.POSS.SG.ALL leave-FUT-IND.3SG
 `This summer Jensen is going to Greenland.`
 
-#6
-Source: {author}
-Vetted: f
-Judgment: g
-Phenomena: {corpus}
-Jensenimik      ateqarpoq
-Jensen-mik      atəq-qaq-vuq
-Jensen-SG.INS   name-have-NONFUT.IND.3SG
-`He is called Jensen (lit. He has a name Jensen.)`
-
 #7
 Source: {a:5}
 Vetted: f
@@ -285,16 +275,6 @@ hoteli-mi     agsut   inuk-qaq-vuq
 hotel-SG.LOC  a.lot   human-have-NONFUT.IND.3SG
 `There are many people in the hotel.`
 
-#29
-Source: {author}
-Vetted: f
-Judgment: u
-Phenomena: {adv}
-illut         assut   mikisut            qorsuupput
-iglu-t        agsut   miki-ðuq-t         quqsuk-u-v^vut
-house-PL.ABS  a.lot   small-NMLZ-PL.ABS  green-COP-NONFUT.IND.3PL
-`Intended: The very small houses are green.`
-
 #30
 Source: {a:7}
 Vetted: f
@@ -314,16 +294,6 @@ taava immaqa    tallimanut           --  Danmarkimi      qulaaluanut         -- 
 taava immaqa    tallima-nut          --  Danmark-mi      qulaalua-nut        -- Kastrupi-mut    pi-ssa-vuq
 then  perhaps   five.o'clock-PL.ALL  --  Denmark-SG.LOC  nine.o'clock-PL.ALL -- Kastrup-SG.ALL  come-FUT-IND.3SG
 `Then maybe at 5 o'clock -- 9 o'clock in Denmark -- it will arrive in Kastrup.`
-
-#32 simple version
-Source: {a:7, author}
-Vetted: f
-Judgment: g
-Phenomena: {time}
-timmisartoq     ataatsimut          aallassaaq
-timmisartuq     atausiq-mut         aullaq-ssa-vuq
-airplane.SG.ABS one.o'clock-SG.ALL  leave-FUT-IND.3SG
-`The plane will leave at 1 o'clock.`
 
 #33
 Source: {a:9}
@@ -345,26 +315,6 @@ kisianni   Jensen-kkuq-t        uvluq-mi    Maniitcuq-mut     aullaq-ssa-ŋŋit-
 but        Jensen-GROUP-PL.ABS  day-SG.LOC  Maniitsoq-SG.ALL  leave-FUT-NEG-IND.NEG.3PL
 `But today, the Jensen's will not go to Maniitsoq.`
 
-#35 correct version of 68
-Source: {author}
-Vetted: f
-Judgment: g
-Phenomena: {agr, neg}
-sininngilatit
-sinək-ŋŋit-latət
-sleep-NEG-NONFUT.IND.NEG.2SG
-`You didn't sleep.`
-
-#36 negated version of 55
-Source: {author}
-Vetted: f  
-Judgment: g
-Phenomena: {c, pn}
-ilissi    atuagaq      atuanngilarsi
-ilissi    atuvagaq     atuvaq-ŋŋit-laqsi
-2PL.ERG   book.SG.ABS  read-NEG-NONFUT.IND.NEG.2PL>3SG
-`You (pl.) are not reading the book.`
-
 #37
 Source: {a:9}
 Vetted: f
@@ -381,7 +331,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 ataaseq     Nuummut      aallarpoq,            aamma  ataaseq     Sisimiunut      aallarpoq
-atausiq     Nuuk-mut     aullaq-vuq            aamma  atausiq     Sisimiuq-nut     aullaq-vuq
+atausiq     Nuuk-mut     aullaq-vuq,            aamma  atausiq     Sisimiuq-nut     aullaq-vuq
 one.SG.ABS  Nuuk-SG.ALL  leave-NONFUT.IND.3SG  and    one.SG.ABS  Sisimiut-PL.ALL leave-NONFUT.IND.3SG
 `One goes to Nuuk and another one goes to Sisimiut.`
 
@@ -421,7 +371,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 arnaq         kalaallisut         akivoq:                »B 225-mi     ineqassaasi,          aana              matuersaat.«
-aqnaq         kalaallisut         aki-vuq               » B 225-mi     inə-qaq-ssa-vusi      aana            matuirsaatə «
+aqnaq         kalaallisut         aki-vuq               » B 225-mi     inə-qaq-ssa-vusi,      aana            matuirsaatə «
 woman.SG.ABS  Kalaallisut.SG.EQU  answer-NONFUT.IND.3SG » B 225-SG.LOC room-have-FUT-IND.2PL EXCL.here.SG.ABS  key.SG.ABS  «
 `The woman replies in Greenlandic: "you will be in B-225, here is the key."`
 
@@ -481,7 +431,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Jensen         kavaajaqarpoq,              Ebbelu            annoraaqarpoq
-Jensen         kavaajaq-qaq-vuq             Ebbe=lu           annuraaq-qaq-vuq
+Jensen         kavaajaq-qaq-vuq,             Ebbe=lu           annuraaq-qaq-vuq
 Jensen.SG.ABS  jacket-have-NONFUT.IND.3SG  Ebbe.SG.ABS=CONJ  anorak-have-NONFUT.IND.3SG
 `Jensen wears a coat, and Ebbe wears an anorak.`
 
@@ -611,7 +561,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 B 225-mut     isermata                Else         aperivoq:           »Sila           qanoq ippa,              suli  kiappa?«
-B 225-mut     isəq-m^mata             Else         apirə-vuq          » sila           qanuq ət-va              suli  kiak-va                «
+B 225-mut     isəq-m^mata             Else         apirə-vuq          » sila           qanuq ət-va,              suli  kiak-va                «
 B 225-SG.ALL  enter-NONFUT.CAUSM.3PL  Else.SG.ABS  ask-NONFUT.IND.3SG » weather.SG.ABS how   COP-NONFUT.INT.3SG still be.hot-NONFUT.INT.3SG «
 `When they enter B-225, Else asks "how is the weather, is it still warm?"`
 
@@ -631,7 +581,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 »Arfininngulerpoq,                       erniinnaq   nerissaagut,«     ataata         oqarpoq.
-» arfinəq-ŋŋuq-liq-vuq                   iqniinnaq   nərə-ssa-vugut  « ataata         uqaq-vuq
+» arfinəq-ŋŋuq-liq-vuq,                   iqniinnaq   nərə-ssa-vugut  « ataata         uqaq-vuq
 » six.o'clock-become-INC-NONFUT.IND.3SG  right.away  eat-FUT-IND.1PL « father.SG.ABS  say-NONFUT.IND.3SG
 `"It is nearly 6 o'clock, we shall soon eat," father says.`
 
@@ -671,7 +621,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 »Kumoorn,      arfineq-pingasunut   aallassaasi,«       receptionimi           arnaq         oqarpoq
-» kumoorn      arfinəq~piŋasu-nut   aullaq-ssa-vusi   « receptioni-mi          aqnaq         uqaq-vuq
+» kumoorn,      arfinəq~piŋasu-nut   aullaq-ssa-vusi   « receptioni-mi          aqnaq         uqaq-vuq
 » good.morning eight.o'clock-PL.ALL leave-FUT-IND.2PL « reception.desk-SG.LOC  woman.SG.ABS  say-NONFUT.IND.3SG
 `"Good morning, you will leave at 8:00," the woman in reception says.`
 
@@ -721,7 +671,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 helikopteri        Sisimiunit       tikippoq
-helikopteri        Sisimiuq-nit      tikit-vuq
+helikopteri        Sisimiuq-nit     tikit-vuq
 helicopter.SG.ABS  Sisimiut-PL.ABL  arrive-NONFUT.IND.3SG
 `The helicopter arrives from Sisimiut.`
 
@@ -761,7 +711,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 »Helikopteri         Maniitsumut       aallalerpoq,              ilaasussat            ikiartoqquneqarput,«                        angut       højttalerikkut      oqarpoq
-» helikopteri        Maniitcuq-mut     aullaq-liq-vuq            ilaucuq-kcaq-t        iki-gi^jaqtuq-qqu-nəqaq-v^vut             « aŋutə       højttaleri-kkut     uqaq-vuq
+» helikopteri        Maniitcuq-mut     aullaq-liq-vuq,            ilaucuq-kcaq-t        iki-gi^jaqtuq-qqu-nəqaq-v^vut             « aŋutə       højttaleri-kkut     uqaq-vuq
 » helicopter.SG.ABS  Maniitsoq-SG.ALL  leave-INC-NONFUT.IND.3SG  passenger-IRR-PL.ABS  go.on.board-go.to-bid-PASS-NONFUT.IND.3PL « man.SG.ABS  loudspeaker-SG.VIA  say-NONFUT.IND.3SG
 `"The helicopter is leaving for Maniitsoq, passengers are requested to board," says a man over the loudspeaker.`
 
@@ -815,8 +765,8 @@ qaðqaq-t         ila-it                aputə-qaq-v^vut
 mountain-PL.ERG  part-3PL.POSS.PL.ABS  snow-have-NONFUT.IND.3PL
 `Some of the mountains have snow.`
 
-#82 remove parentheses; TODO: mip-?
-Source: {a:15, author}
+#82 remove parentheses (heliportimut); TODO: mip-?
+Source: {a:15}
 Vetted: f
 Judgment: g
 Phenomena: {corpus}
@@ -891,7 +841,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Aap, Hans  Jensenimik      ateqarpunga.
-aap  Hans  Jensen-mik      atəq-qaq-vuŋa
+aap,  Hans  Jensen-mik      atəq-qaq-vuŋa
 yes  Hans  Jensen-SG.INS   name-have-NONFUT.IND.1SG
 `Yes, my name is Hans Jensen.`
 
@@ -911,7 +861,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Qujanaq,   tassa    nuliara,              Elsemik      ateqarpoq.
-qujanaq    tassa    nuliaq-ga             Else-mik     atəq-qaq-vuq
+qujanaq,    tassa    nuliaq-ga,             Else-mik     atəq-qaq-vuq
 thank.you  that.is  wife-1SG.POSS.SG.ABS  Else-SG.INS  name-have-NONFUT.IND.3SG
 `Thank you, this is my wife, her name is Else.`
 
@@ -941,7 +891,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Kutaa, qanoq  ateqarpisi?
-kutaa  qanuq  atəq-qaq-visi
+kutaa,  qanuq  atəq-qaq-visi
 hello  how    name-have-NONFUT.INT.2PL
 `Hello, how are you (pl.) called?`
 
@@ -981,7 +931,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Biilit      ornippaat,                   biilinullu       ikigamik                      illoqarfimmut   aallarput.
-biili-t     uqnək-vaat                   biili-nut=lu     iki-gamik                     igluqarfik-mut  aullaq-v^vut
+biili-t     uqnək-vaat,                   biili-nut=lu     iki-gamik                     igluqarfik-mut  aullaq-v^vut
 car-PL.ABS  approach-NONFUT.IND.3PL>3PL  car-PL.ALL=CONJ  go.on.board-NONFUT.CAUSM.4PL  town-SG.ALL     leave-NONFUT.IND.3PL
 `They approach the car, and when they get in the car, they travel to town.`
 
@@ -2140,9 +2090,9 @@ Source: {a:29}
 Vetted: f
 Judgment: g
 Phenomena: {corpus}
-Kutaa, uanga    Hans Jenseniuvunga.
-kutaa  uvaŋa    Hans Jensen-u-vuŋa
-hello  1SG.ABS  Hans Jensen-COP-NONFUT.IND.1SG
+Kutaa,  uanga    Hans Jenseniuvunga.
+kutaa,  uvaŋa    Hans Jensen-u-vuŋa
+hello   1SG.ABS  Hans Jensen-COP-NONFUT.IND.1SG
 `Hello, I am Hans Jensen.`
 
 #215
@@ -2161,7 +2111,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Sunaaffa  kalaallisut         oqaluttarputit,           sumi         ilinniaravit?
-sunaaffa  kalaallisut         uqaluk-ðaq-vutət          su-mi        əlitniaq-gavət
+sunaaffa  kalaallisut         uqaluk-ðaq-vutət,          su-mi        əlitniaq-gavət
 wow       Kalaallisut.SG.EQU  speak-HAB-NONFUT.IND.2SG  what-SG.LOC  study-NONFUT.CAUSM.2SG
 `Lo!, you speak Greenlandic, where did you study?`
 
@@ -2171,7 +2121,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Danmarkimi      ukioq        ataaseq     kalaallisut         ilinniarpunga.
-Danmark-mi     ukiuq        atausiq     kalaallisut         əlitniaq-vuŋa
+Danmark-mi      ukiuq        atausiq     kalaallisut         əlitniaq-vuŋa
 Denmark-SG.LOC  year.SG.ABS  one.SG.ABS  Kalaallisut.SG.EQU  study-NONFUT.IND.1SG
 `In Denmark, I studied Greenlandic for a year.`
 
@@ -2191,7 +2141,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Ilinniartissinnaavagit,                 qaqugu    aallartissaagut?
-əlitniaq-tət-sinnau-vagət               qaqugu    aullaqtət-ssa-vugut
+əlitniaq-tət-sinnau-vagət,               qaqugu    aullaqtət-ssa-vugut
 study-let.CAUSV-can-NONFUT.IND.1SG>2SG  when.FUT  begin-FUT-IND.1PL
 `I can tutor you, when shall we start?`
 
@@ -2201,7 +2151,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Naluara,                     aqagu            aallartissinnaavugut?
-nalu-vara                    aqagu            aullaqtət-sinnau-vugut
+nalu-vara,                    aqagu            aullaqtət-sinnau-vugut
 not.know-NONFUT.IND.1SG>3SG  tomorrow.SG.ABS  begin-can-NONFUT.IND.1PL
 `I don't know, shall we start tomorrow?`
 
@@ -2211,7 +2161,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Aap, aqagu            aallartissinnaavugut.
-aap  aqagu            aullaqtət-sinnau-vugut
+aap,  aqagu            aullaqtət-sinnau-vugut
 yes  tomorrow.SG.ABS  begin-can-NONFUT.IND.1PL
 `Yes, we can start tomorrow.`
 
@@ -2231,7 +2181,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Ajunngilaq,                 aqagu            marlunut    aggissaanga.
-ajuq-ŋŋit-laq               aqagu            marluk-nut  aggiq-ssa-vuŋa
+ajuq-ŋŋit-laq,               aqagu            marluk-nut  aggiq-ssa-vuŋa
 bad-NEG-NONFUT.IND.NEG.3SG  tomorrow.SG.ABS  two-PL.ALL  come-FUT-NONFUT.IND.1SG
 `Good, tomorrow at two o'clock (14:00) I will come.`
 
@@ -2311,7 +2261,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Aap, nalunngilara,                        ukioq          atuarpara.
-aap  nalu-ŋŋit-lara                       ukiuq          atuvaq-vara
+aap,  nalu-ŋŋit-lara,                       ukiuq          atuvaq-vara
 yes  not.know-NEG-NONFUT.IND.NEG.1SG>3SG  winter.SG.ABS  read-NONFUT.IND.1SG>3SG
 `Yes, I know it, I read it this winter.`
 
@@ -2371,7 +2321,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Ilaa                  atuassavara,          tusarnaarit
-ila-a                 atuvaq-ssa-vara       tusaqnaaq-git
+ila-a                 atuvaq-ssa-vara,       tusaqnaaq-git
 part-3SG.POSS.SG.ABS  read-FUT-IND.1SG>3SG  listen-NONFUT.IMP.2SG
 `I will read part of it, listen.`
 
@@ -4123,7 +4073,7 @@ Phenomena: {corpus}
 Ualeru                 pujortuleeqqat               atorsinnaavara?
 uvaliru                pujurtuliiraq-t              atuq-sinnau-vara
 this.afternoon.SG.ABS  motorboat-2SG.POSS.SG.ABS    use-can-NONFUT.IND.1SG>3SG
-`Can we use your motorboat this afternoon?`
+`Can I use your motorboat this afternoon?`
 
 #413
 Source: {a:41}
@@ -6781,7 +6731,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Aqaguani          Sisimiunut       tikikkatta       oqaluttuarput,       assunngooq aamma  Sisimiuni        anorlerpoq.
-aqaguani          Sisimiuq-nut      tikit-gamta      uqaluttuaq-v^vut    agsut=guuq aamma  Sisimiuq-ni      anuqliq-vuq
+aqaguani          Sisimiuq-nut     tikit-gamta      uqaluttuaq-v^vut     agsut=guuq aamma  Sisimiuq-ni      anuqliq-vuq
 day.after.SG.LOC  Sisimiut-PL.ALL  arrive-CAUSM.1PL tell-NONFUT.IND.3PL  a.lot=EV   also   Sisimiut-PL.LOC  blow-NONFUT.IND.3SG
 `The next day, when we arrived in Sisimiut, they told that it was also very windy in Sisimiut.`
 
@@ -6792,7 +6742,7 @@ Judgment: g
 Phenomena: {corpus}
 Pujortuleeqqat    pingasut      umiarsualivimmi    aserorsimapput.
 pujurtuliiraq-t   piŋasu-t      umiarcualivik-mi   asiruq-sima-v^vut
-motorboat-PL.ABS  three-PL.ABS  harbor-SG.LOC        break-PFV-NONFUT.IND.3PL
+motorboat-PL.ABS  three-PL.ABS  harbor-SG.LOC      break-PFV-NONFUT.IND.3PL
 `Three motorboats have broken down at the docks.`
 
 #681 NOTE: comma changed to period
@@ -6881,7 +6831,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Kaalip        mattak         angisooq         tiguaa                   Jensenimullu        tunniullugu. 
-Kaali-p       mattak         aŋə-suuq         tigu-vaa                 Jensen-mut=lu       tunniup-l^lugu
+Kaali-p       mattak         aŋə-suuq         tigu-vaa                 Jensen-mut=lu       tunniutə-l^lugu
 Kaali-SG.ERG  mattak.SG.ABS  big-NMLZ.SG.ABS  take-NONFUT.IND.3SG>3SG  Jensen-SG.ALL=CONJ  give-CNTP.3SG
 `Kaali takes a large (piece of) mattak and gives it to Jensen.`
 
@@ -8255,7 +8205,7 @@ aitcaat    quli-t      iqqaq-anni                sinək-liq-vuq
 only.then  ten-PL.ERG  vicinity-3PL.POSS.SG.LOC  sleep-INC-NONFUT.IND.3SG
 `At around 10:00 he felt asleep.`
 
-#827
+#827 TODO: why is this contemporative???
 Source: {a:71}
 Vetted: f
 Judgment: g
@@ -8361,7 +8311,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 »Aajuku            taquassasi,«                           anaanap        poortugaq       ataatamut      tunniuppaa,              »Ebbe,        kavaajat       eqqaamassavat,           inuulluarisi, ingerlalluarniarisi!«
-» aajuku           taquaq-kcaq-si                       « anaana-p       puuqtugaq       ataata-mut     tunniup-vaa             » Ebbe         kavaajaq-t      iqqaima-ssa-vat          inuu-l^luaq-gisi  iŋirla-l^luaq-niaq-gisi       «
+» aajuku           taquaq-kcaq-si                       « anaana-p       puuqtugaq       ataata-mut     tunniutə-vaa             » Ebbe         kavaajaq-t      iqqaima-ssa-vat          inuu-l^luaq-gisi  iŋirla-l^luaq-niaq-gisi       «
 » EXCL.that.PL.ABS travel.provision-IRR-2PL.POSS.PL.ABS « mother-SG.ERG  package.SG.ABS  father-SG.ALL  give-NONFUT.IND.3SG>3SG » Ebbe.SG.ABS  jacket-PL.ABS  remember-FUT-IND.2SG>3SG live-well-FUT.IMP.2PL go-well-please-FUT.IMP.2PL «
 `"Here are your things." Mother gave father a package, "Ebbe, you shall remember your coat, live well, have a good trip!"`
 
@@ -10291,7 +10241,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Saqisup         regningi     tunniuppaa.
-saqicuq-p       regningi     tunniup-vaa
+saqicuq-p       regningi     tunniutə-vaa
 waiter-SG.ERG   bill.SG.ABS  give-NONFUT.IND.3SG>3SG
 `The waitress presented him with the bill.`
 
@@ -10311,7 +10261,7 @@ Vetted: f
 Judgment: g
 Phenomena: {corpus}
 Jensenip        aningaasat    saqisumut      tunniuppai,
-Jensen-p        aniŋaasaq-t   saqicuq-mut    tunniup-vai
+Jensen-p        aniŋaasaq-t   saqicuq-mut    tunniutə-vai
 Jensen-SG.ERG   money-PL.ABS  waiter-SG.ALL  give-NONFUT.IND.3SG>3PL
 `Jensen gave her the money.`
 
@@ -10693,7 +10643,7 @@ Phenomena: {corpus}
 Uagut    tallimanik   qimmeqarpugut            qimmiaqqallu           sisamat.
 uvagut   tallima-nik  qikmiq-qaq-vugut         qikmiq-araq-t=lu       sisama-t
 1PL.ABS  five-PL.INS  dog-have-NONFUT.IND.1PL  dog-small-PL.ABS=CONJ  four-PL.ABS
-`We have 5 dogs and 4 puppies, it is very nice on Sundays when we go sledding.`
+`We have 5 dogs and 4 puppies.`
 
 #1071
 Source: {a:91}
@@ -12230,9 +12180,9 @@ Source: {a:102}
 Vetted: f
 Judgment: g
 Phenomena: {corpus}
-Ippissuup        qaava                    soorlu arsaattarfik.
-ippik-q^cuaq-p   qaaq-a                   suurlu arsaattarfik
-cliff-big-SG.ERG surface-3SG.POSS.SG.ABS  like   football.field.SG.ABS
+Ippissuup                   qaava                    soorlu arsaattarfik.
+ippik-q^cuaq-p              qaaq-a                   suurlu arsaattarfik
+sea.facing.cliff-big-SG.ERG surface-3SG.POSS.SG.ABS  like   football.field.SG.ABS
 `On the top of the big cliff there is a football field.`
 
 #1225 NOTE: typo: aammaruutissaqarami => aamaruutissaqarami (double m)
@@ -14670,9 +14620,9 @@ Source: {a:127}
 Vetted: f
 Judgment: g
 Phenomena: {corpus}
-tassaana       innat         timitsinniittut                                      qanga        appat         erniorfissuarigalui.
-tassa=una      innaq-t       timə-ttənni=ət-ðuq-t                                 qaŋa         appa-t        iqniuq-f^fik-q^cuaq-gə-galuaq-i
-that.is=it.is  cliff-PL.ABS  interior-1PL.POSS.SG.LOC=be.located.COP-NMLZ-PL.ABS  in.the.past  murre-PL.ERG  breed-place-big-have.as-former-3SG.POSS.PL.ABS
+tassaana       innat              timitsinniittut                                      qanga        appat         erniorfissuarigalui.
+tassa=una      innaq-t            timə-ttənni=ət-ðuq-t                                 qaŋa         appa-t        iqniuq-f^fik-q^cuaq-gə-galuaq-i
+that.is=it.is  cliff.wall-PL.ABS  interior-1PL.POSS.SG.LOC=be.located.COP-NMLZ-PL.ABS  in.the.past  murre-PL.ERG  breed-place-big-have.as-former-3SG.POSS.PL.ABS
 `Those are cliffs towards the land (from our standpoint), (and) murres' former breeding ground in the past.`
 
 #1469 TODO: plural anaq? TODO: what is the subj of peeruppoq? [guess: avalent] and is that lexicalized?
@@ -14680,9 +14630,9 @@ Source: {a:127}
 Vetted: f
 Judgment: g
 Phenomena: {corpus}
-Appat         amerlangaaramik             qaqqat           innaat                 timmissat    anaannik              qaqortuinnaasaraluarput,                         kisianni maanna peeruppoq                        piniarneqarpallaaqigamik
-appa-t        amirla-ŋaaq-gamik           qaðqaq-t         innaq-at               tiŋmijaq-t   anaq-annik            qaquq-ðuq-g^innaq-u-ðaq-galuaq-v^vut             kisianni maanna pi-irutə-vuq                     piniaq-nəqaq-vallaaq-qə-gamik
-murre-PL.ABS  a.lot.of-greatly-CAUSM.4PL  mountain-PL.ERG  cliff-3PL.POSS.SG.ABS  bird-PL.ERG  dung-3PL.POSS.PL.INS  white-NMLZ-just-COP-HAB-actually-NONFUT.IND.3PL  but      now    thing-be.no.more-NONFUT.IND.3SG  go.hunting-PASS-too-very-CAUSM.4PL
+Appat         amerlangaaramik             qaqqat           innaat                      timmissat    anaannik              qaqortuinnaasaraluarput,                         kisianni maanna peeruppoq                        piniarneqarpallaaqigamik
+appa-t        amirla-ŋaaq-gamik           qaðqaq-t         innaq-at                    tiŋmijaq-t   anaq-annik            qaquq-ðuq-g^innaq-u-ðaq-galuaq-v^vut             kisianni maanna pi-irutə-vuq                     piniaq-nəqaq-vallaaq-qə-gamik
+murre-PL.ABS  a.lot.of-greatly-CAUSM.4PL  mountain-PL.ERG  cliff.wall-3PL.POSS.SG.ABS  bird-PL.ERG  dung-3PL.POSS.PL.INS  white-NMLZ-just-COP-HAB-actually-NONFUT.IND.3PL  but      now    thing-be.no.more-NONFUT.IND.3SG  go.hunting-PASS-too-very-CAUSM.4PL
 `Since there were so many murres, that the mountainside used to be completely white from the birds' shit, however now they are no more since they got hunted way too much.`
 
 #1470
